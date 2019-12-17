@@ -1,0 +1,8 @@
+C:\Users\paulosantos\source\repos\BookStore\BookStore.Domain\bin\Debug\netstandard2.0\BookStore.Domain.deps.json
+C:\Users\paulosantos\source\repos\BookStore\BookStore.Domain\bin\Debug\netstandard2.0\BookStore.Domain.dll
+C:\Users\paulosantos\source\repos\BookStore\BookStore.Domain\bin\Debug\netstandard2.0\BookStore.Domain.pdb
+C:\Users\paulosantos\source\repos\BookStore\BookStore.Domain\obj\Debug\netstandard2.0\BookStore.Domain.csprojAssemblyReference.cache
+C:\Users\paulosantos\source\repos\BookStore\BookStore.Domain\obj\Debug\netstandard2.0\BookStore.Domain.AssemblyInfoInputs.cache
+C:\Users\paulosantos\source\repos\BookStore\BookStore.Domain\obj\Debug\netstandard2.0\BookStore.Domain.AssemblyInfo.cs
+C:\Users\paulosantos\source\repos\BookStore\BookStore.Domain\obj\Debug\netstandard2.0\BookStore.Domain.dll
+C:\Users\paulosantos\source\repos\BookStore\BookStore.Domain\obj\Debug\netstandard2.0\BookStore.Domain.pdb
